@@ -1,0 +1,14 @@
+Porsche
+Lamborghini
+Ferrari
+Python
+Ruby
+Oracle
+Amazon
+Apple
+Android
+SQLite
+Microsoft
+React
+Javascript
+
